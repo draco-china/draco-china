@@ -19,7 +19,7 @@ jobs:
           # GitHub Personal Access Token，用于授权生成报告
           token: ${{ secrets.ACCESS_TOKEN }}
           # 要生成报告的用户名称
-          user: dracon-china
+          user: draco-china
           # 时区设置
           config_timezone: Asia/Shanghai
           # 显示风格（注释掉表示使用默认设置）
