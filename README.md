@@ -1,5 +1,5 @@
 <div>
-<a href="https://git.io/typing-svg" style="float: left;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&height=100&lines=Hi+there+👋,+I+am+Draco;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" width="63.5%" /></a>
+<a href="https://git.io/typing-svg" style="float: left;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&height=100&lines=Hi+there+👋,+I+am+Draco;+Welcome+to+My+Profile!;Over+9+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" width="63.5%" /></a>
 
 <img src="https://count.getloli.com/get/@draco-china.github.readme" style="float: right; margin-bottom: 1%" width="35%">
 </div>
