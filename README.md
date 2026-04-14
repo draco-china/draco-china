@@ -50,12 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=draco-china&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" width="100%" />
 </div>
 
-## 🏔️ 3D Contribution
-
-<picture>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</picture>
-
 ## 📈 Metrics
 
 <picture>
