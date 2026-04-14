@@ -45,10 +45,10 @@ jobs:
           # 插件：日历
           # plugin_calendar: yes
           # plugin_calendar_limit: 11
-          # 插件：活动习惯
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # 插件：活动习惯（已禁用，生成不稳定）
+          # plugin_habits: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: yes
           # 插件：开源许可证
           # plugin_licenses: yes
           # plugin_licenses_setup: npm ci
