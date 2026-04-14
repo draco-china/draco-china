@@ -56,8 +56,6 @@
   <img src="./github-metrics.svg" width="100%" />
 </picture>
 
----
-
 <div align="center">
 
 ![](./src/footer.svg)
