@@ -23,7 +23,7 @@
 
 - **[draco.dev](https://github.com/draco-china/draco.dev)** — 桌面式交互的个人网站。 [访问 →](https://draco.dev)
 - **[ToolTab](https://github.com/draco-china/tooltab)** — 在浏览器中处理本地数据的工具集。 [体验 →](https://tool.draco.dev)
-- **[shadcn-pro](https://github.com/draco-china/shadcn-pro)** — 可复制使用的表单、表格与编辑器组件。
+- **[SUI](https://github.com/draco-china/sui)** — 基于 Base UI 和 Tailwind CSS 4 的可组合 React 组件库。 [探索 →](https://sui.draco.dev)
 - **[Hello Mac](https://github.com/draco-china/hello-mac)** — Homebrew 应用与个性化 Zsh 配置。
 - **[templates](https://github.com/draco-china/templates)** — Web 与桌面应用的独立项目模板。
 

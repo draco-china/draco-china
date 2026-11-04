@@ -23,7 +23,7 @@
 
 - **[draco.dev](https://github.com/draco-china/draco.dev)** — A desktop-inspired personal website. [Visit →](https://draco.dev)
 - **[ToolTab](https://github.com/draco-china/tooltab)** — Browser tools for processing local data. [Try it →](https://tool.draco.dev)
-- **[shadcn-pro](https://github.com/draco-china/shadcn-pro)** — Forms, tables, and editors you can copy and own.
+- **[SUI](https://github.com/draco-china/sui)** — Composable React components built with Base UI and Tailwind CSS 4. [Explore →](https://sui.draco.dev)
 - **[Hello Mac](https://github.com/draco-china/hello-mac)** — Homebrew apps and a personalized Zsh setup.
 - **[templates](https://github.com/draco-china/templates)** — Independent starters for web and desktop applications.
 
